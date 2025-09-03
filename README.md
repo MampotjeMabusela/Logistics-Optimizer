@@ -1,9 +1,13 @@
 🚚 LogiMind: AI-Powered Logistics Optimizer for Santova
+
 Overview
+
 LogiMind is a modular AI application designed to optimize global logistics operations for Santova. It leverages predictive modeling, natural language processing, and geospatial intelligence to streamline shipment tracking, customs compliance, and route efficiency — all while maintaining POPIA-aligned audit trails.
 
 🔧 Core Features
+
 Module	Description
+
 🧠 Predictive ETA	Uses XGBoost to estimate arrival times based on distance, cargo weight, and weather
 📄 Customs Parser	NLP engine (spaCy) extracts key fields from unstructured customs documents
 🗺️ Route Dashboard	Real-time map visualization using Azure Maps for route tracking and risk alerts
